@@ -1,0 +1,20 @@
+{
+  "name": "test-workspace-deps-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimli01/test-workspace-deps-upgrade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimli01/test-workspace-deps-upgrade/issues"
+  },
+  "homepage": "https://github.com/gimli01/test-workspace-deps-upgrade#readme"
+}
